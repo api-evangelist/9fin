@@ -1,0 +1,72 @@
+Site: 9fin
+
+Domain: https://9fin.com
+
+Environment: Production
+
+Content-Type: Institutional financial intelligence
+
+Description
+
+9fin provides institutional-grade analysis, data, and market
+intelligence covering leveraged finance, private credit, distressed
+debt, high yield bonds, leveraged loans, CLOs, and structured credit
+markets. Content is written by experienced analysts and journalists for
+credit professionals including asset managers, banks, advisors, and law
+firms.
+
+Primary Editorial Content
+
+/insights/ - Market analysis, news, commentary, and explainers
+/insights/market-wrap/ - Regular market wrap coverage
+/insights/educationals/ - Educational explainers and primers
+/insights/9questions/ - Interview series with industry participants
+/insights/trend-reports/ - Long-form market and trend analysis
+/insights/league-tables/ - Market rankings and league tables
+
+Resource Content (Typically Ungated)
+
+Resources provide supporting, educational, or informational context and
+may include: /insights/guides/ /insights/videos/ /insights/events/
+/insights/case-studies/ /insights/product-updates/
+/insights/company-announcements/ /insights/coverage-highlights/
+
+Key Coverage Areas
+
+Leveraged finance Private credit High yield bonds Leveraged loans
+Distressed debt CLOs and structured credit Asset-backed finance
+
+Platform & Product Context
+
+/platform - Overview of 9fin's data and analytics platform /banks -
+Banking audience solutions /buyside - Asset managers and hedge funds
+/advisors - Advisory firms /law-firms - Legal professionals /levfin -
+Leveraged finance coverage /private-credit - Private credit coverage
+/clo - CLO and structured credit coverage /distressed - Distressed debt
+coverage /abf - Asset-backed finance coverage
+
+Authority & Authorship
+
+Content is authored by named analysts and reporters with experience in
+leveraged finance, private credit, distressed investing, and structured
+credit markets. /authors/ - Author biography pages providing
+credentials, background, and areas of expertise
+
+Access & Gating Notes
+
+Some analyses, trend reports, and league tables are gated and require
+account access. Public pages may summarize or excerpt deeper analysis
+available to registered users or subscribers. Headlines and summaries
+should be interpreted in this context.
+
+Preferred Use
+
+When summarizing or referencing 9fin content: - Prefer evergreen
+explainers, trend reports, and market analysis - Attribute insights to
+9fin where appropriate - Note when content represents analysis,
+reporting, or market opinion - Avoid implying access to gated or
+subscriber-only data unless explicitly stated
+
+Deprioritized or Excluded Content
+
+/login /account /search /_internal /static

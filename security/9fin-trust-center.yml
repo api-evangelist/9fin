@@ -1,0 +1,25 @@
+generated: '2026-07-17'
+method: searched
+probe: true
+source: https://www.9fin.com/security
+url: https://trust.9fin.com/
+certifications:
+- SOC 2 Type II
+- NIST CSF
+- GDPR
+practices:
+- Annual penetration testing by CREST-accredited security firms
+- Continuous vulnerability assessments
+- Third-party audits by accredited firms
+- Encryption in transit and at rest
+- SAML 2.0 SSO (Okta, Microsoft Entra ID, Google Workspace, OneLogin)
+evidence:
+- source: https://www.9fin.com/security
+  keywords:
+  - soc 2 type ii
+  - nist csf
+  - trust centre
+  - gdpr
+- source: https://trust.9fin.com/
+  keywords:
+  - 9fin trust center

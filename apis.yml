@@ -1,8 +1,30 @@
 aid: 9fin
 name: 9FIN
-description: 9FIN is a company surfaced as a portfolio company of 500-global, seedcamp and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  9fin is an AI-native debt market intelligence and data platform for modern
+  credit teams, covering leveraged finance, private credit, distressed debt,
+  high yield bonds, leveraged loans, CLOs, structured credit, and asset-backed
+  finance. Founded in 2016 and headquartered in London, 9fin unifies deep credit
+  data, covenant and financial analysis, expert news and analysis, and AI-powered
+  workflows (covenant analysis, earnings summaries, comparable analysis) in one
+  interface. It powers credit teams at 350+ leading institutions - investment
+  banks, asset managers, hedge funds, law firms, and advisors - and raised a
+  $170M Series C at a $1.3B valuation. 9fin offers an API and Data Services for
+  clients to access its data under agreement, but publishes no open public
+  developer portal or API specification at this time.
 url: https://raw.githubusercontent.com/api-evangelist/9fin/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://9fin.com/apple-touch-icon.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -15,6 +37,14 @@ created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
+- Financial Services
+- Fixed Income
+- Credit Intelligence
+- Leveraged Finance
+- Private Credit
+- Debt Capital Markets
+- Market Data
+- Artificial Intelligence
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,3 +54,32 @@ maintainers:
 common:
 - type: Website
   url: https://9fin.com
+- type: Blog
+  url: https://9fin.com/insights
+- type: ChangeLog
+  url: https://9fin.com/insights/product-updates/
+- type: SignUp
+  url: https://www.9fin.com/sign-up
+- type: GitHubOrganization
+  url: https://github.com/9fin
+- type: TermsOfService
+  url: https://www.9fin.com/terms/terms-of-use/v1.0
+- type: PrivacyPolicy
+  url: https://www.9fin.com/privacy
+- type: Security
+  url: https://www.9fin.com/security
+- type: Compliance
+  url: https://www.9fin.com/security
+- type: TrustCenter
+  url: security/9fin-trust-center.yml
+- type: Conformance
+  url: conformance/9fin-conformance.yml
+- type: DomainSecurity
+  url: security/9fin-domain-security.yml
+- type: LLMsTxt
+  url: llms/9fin-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
