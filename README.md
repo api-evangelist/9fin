@@ -64,6 +64,96 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-9FIN is a company surfaced as a portfolio company of 500-global, seedcamp and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+9fin is an AI-native debt market intelligence and data platform for modern credit teams, covering leveraged finance, private credit, distressed debt, high yield bonds, leveraged loans, CLOs, structured credit, and asset-backed finance. Founded in 2016 and headquartered in London, 9fin unifies deep credit data, covenant and financial analysis, expert news and analysis, and AI-powered workflows (covenant analysis, earnings summaries, comparable analysis) in one interface. It powers credit teams at 350+ leading institutions - investment banks, asset managers, hedge funds, law firms, and advisors - and raised a $170M Series C at a $1.3B valuation. 9fin offers an API and Data Services for clients to access its data under agreement, but publishes no open public developer portal or API specification at this time.
 
-Backed by: 500-global, seedcamp — https://9fin.com
+**Areas:** Company · Financial Services · Fixed Income · Credit Intelligence · Leveraged Finance · Private Credit · Debt Capital Markets · Market Data · Artificial Intelligence
+
+## 9FIN on APIs.io
+
+Everything profiled for 9FIN is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/9fin/](https://apis.io/providers/9fin/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [9fin](https://apis.io/servers/9fin/9fin/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [9Fin Domain Security](https://apis.io/security/9fin/9fin-domain-security/)
+- [9Fin Trust Center](https://apis.io/security/9fin/9fin-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://9fin.com)
+- [Sign up](https://www.9fin.com/sign-up)
+- [Changelog](https://9fin.com/insights/product-updates/)
+- [Blog](https://9fin.com/insights)
+- [Security](https://www.9fin.com/security)
+- [Compliance](https://www.9fin.com/security)
+- [Terms of service](https://www.9fin.com/terms/terms-of-use/v1.0)
+- [Privacy policy](https://www.9fin.com/privacy)
+- [GitHub](https://github.com/9fin)
+
+## API Evangelist rating
+
+**Kin Score 22.3** — emerging · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.3 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 28.9 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 50.0 |
+
+**Agent readiness 12.2** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | verified |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 20.7** — Securities & Market Data
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/9fin/](https://apis.io/providers/9fin/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for 9FIN: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/9fin/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
